@@ -1,1 +1,1 @@
-# JavaScript_Basic_Calculater
+# JavaScript_Basic_Calculator project .
