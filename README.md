@@ -1,2 +1,2 @@
-# JavaScript_Basic_Calculator project .
-# my-new-branch .
+# JavaScript_Basic_Calculator project.
+# my-new-branch.
